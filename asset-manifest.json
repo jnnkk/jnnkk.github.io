@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/japan_project/static/css/main.71d6be46.css",
+    "main.js": "/japan_project/static/js/main.3bb7de58.js",
+    "static/media/cherryheader.jpg": "/japan_project/static/media/cherryheader.352588c19502b692ad44.jpg",
+    "index.html": "/japan_project/index.html",
+    "main.71d6be46.css.map": "/japan_project/static/css/main.71d6be46.css.map",
+    "main.3bb7de58.js.map": "/japan_project/static/js/main.3bb7de58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d6be46.css",
+    "static/js/main.3bb7de58.js"
+  ]
+}
