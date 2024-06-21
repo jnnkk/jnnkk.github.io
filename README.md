@@ -1,1 +1,0 @@
-# jnnkk.github.io
